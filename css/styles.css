@@ -1,15 +1,23 @@
 h1 {
     color: blue;
     text-align: center;
+    text-decoration: underline;
 }
 h2 {
     color: green;
     font-style: italic;
     text-align: center;
+    text-decoration: underline;
 }
 p {
     font-family: sans-serif;
 }
 ul {
     line-height: 40px;
+}
+body {
+    background-color: whitesmoke;
+}
+img {
+    border-radius: 5px;
 }
