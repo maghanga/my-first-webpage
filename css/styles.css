@@ -1,13 +1,13 @@
 h1 {
     color: blue;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: black underline;
 }
 h2 {
     color: green;
     font-style: italic;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: black double underline;
 }
 p {
     font-family: sans-serif;
